@@ -1,5 +1,0 @@
-.venv/
-.pybuilder/
-target/
-__pycache__/
-*.py[cod]
