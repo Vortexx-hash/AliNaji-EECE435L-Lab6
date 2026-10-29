@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_calculator_Ali_Naji.TestCalculator-20261029113016" tests="25" file="test_calculator_Ali_Naji.py" time="0.029" timestamp="2026-10-29T11:30:17" failures="0" errors="0" skipped="0">
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_add" time="0.002" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_add_decimals" time="0.002" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_add_negative_numbers" time="0.002" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_divide" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_divide_by_zero" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_divide_fractional_result" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_modulus" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_modulus_by_zero" time="0.000" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_modulus_decimal" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_modulus_negative_dividend" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_modulus_negative_divisor" time="0.002" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_multiply" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_multiply_by_zero" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_multiply_negative_number" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_power" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_power_fractional_exponent" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_power_negative_exponent" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_power_zero_exponent" time="0.000" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_square_root" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_square_root_negative_number" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_square_root_non_square" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_square_root_zero" time="0.002" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_subtract" time="0.001" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_subtract_negative_result" time="0.002" timestamp="2026-10-29T11:30:17"/>
+	<testcase classname="test_calculator_Ali_Naji.TestCalculator" name="test_subtract_same_number" time="0.001" timestamp="2026-10-29T11:30:17"/>
+</testsuite>
